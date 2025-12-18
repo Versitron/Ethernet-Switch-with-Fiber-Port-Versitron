@@ -1,4 +1,4 @@
-# Ethernet Switch with Fiber Port | Managed Fiber Ethernet Switch by Versitron
+# Ethernet Switch with Fiber Port | Versitron
 
 Versitron’s **[Ethernet switch with fiber port](https://www.versitron.com/collections/fiber-optic-network-switches)** is a versatile, high-performance fiber Ethernet switch designed for enterprise, industrial, and service-provider networks. With integrated fiber ports alongside copper Ethernet connections, this switch supports scalable network architectures, enhanced performance, and long-distance fiber links.
 
